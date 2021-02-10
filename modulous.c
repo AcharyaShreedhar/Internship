@@ -6,6 +6,5 @@ int main(){
     scanf("%d,%d",&a,&b);
     mod=a%b;
   printf("the remainder is:%d", &mod);
-  scanf("%d", &mod);
    return 0;
 }
