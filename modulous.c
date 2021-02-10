@@ -5,6 +5,7 @@ int main(){
     printf("Enter any two numbers a and b");
     scanf("%d,%d",&a,&b);
     mod=a%b;
-    return 0;
-
+  printf("the remainder is:");
+  scanf("%d", &mod);
+   return 0;
 }
